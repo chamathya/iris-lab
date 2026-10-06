@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.pyc
+.git
+reports
+release
+release-A
+release-B
+*.joblib
